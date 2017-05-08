@@ -1,0 +1,1517 @@
+{
+  "metricRecords": [
+    {
+      "metricName": "ByteCount",
+      "metricValue": 19290872,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-47"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 19290872,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-47"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 516040650,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-49"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 516040650,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-49"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1726,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-28"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1726,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-28"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1046511664,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-42"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1046511664,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-42"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1386,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-30"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1386,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-30"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-32"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-32"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 102,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-27"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 108,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-27"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 550597,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-45"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 550597,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-45"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 52,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-29"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 55,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-29"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 4420,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-29"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 4675,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-29"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1275,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-33"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1275,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-33"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1734,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-32"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1734,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-32"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1195910380,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-44"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1195910380,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-44"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 833549642,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-45"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 833549642,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-45"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 574,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-52"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 574,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-52"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 833549642,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-48"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 833549642,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-48"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 1028194,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-50"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 1028194,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-50"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 17,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-30"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 17,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-30"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 8670,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-27"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 9180,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-27"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 1497912,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-44"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 1497912,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-44"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 5695,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-31"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 5950,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-31"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 11,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-52"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 11,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-52"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 691262,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-42"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 691262,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-42"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 15,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-33"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 15,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-33"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1562,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-34"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1562,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-34"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 289180,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-51"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 289180,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-51"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 496749778,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-46"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 496749778,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-46"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 289180,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-47"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 289180,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-47"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 550597,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-48"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 550597,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-48"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1330299420,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-50"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 1330299420,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-50"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-34"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-34"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 19290872,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-51"
+        }
+      ]
+    },
+    {
+      "metricName": "ByteCount",
+      "metricValue": 19290872,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-51"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 766777,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-49"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 766777,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-49"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 477597,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-46"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 477597,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-46"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 67,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-31"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 70,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-31"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-28"
+        }
+      ]
+    },
+    {
+      "metricName": "PacketCount",
+      "metricValue": 21,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "FLOWSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "Table",
+          "keyValue": "0"
+        },
+        {
+          "keyName": "Flow",
+          "keyValue": "#UF$TABLE*0-28"
+        }
+      ]
+    }
+  ],
+  "recordCount": 72
+}

@@ -1,0 +1,4901 @@
+{
+  "metricRecords": [
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 824491754,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 824491754,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1195914730,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1195914985,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 413557,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 413557,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1003881664,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1003881664,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 782238658,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 782238658,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 408709,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 408709,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 928019,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 928022,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2566289,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2566292,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1730569148,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1730569403,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2578630,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2578633,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 928025,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 928028,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1861452306,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1861452561,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1875027,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1875030,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1730568590,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 1730568845,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 836803762,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 836803762,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2733449266,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2733449521,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2559590,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2559593,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 858572110,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 858572365,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1497963,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1497966,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 8,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 444875,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 444875,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 1631628,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 1631631,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 648,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 2578635,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 2578638,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 858571630,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 858571885,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveOverRunError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2733449336,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2733449591,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2777080254,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2777080509,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveFrameError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmitErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveCrcError",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1631621,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 1631624,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 45356,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 45356,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:1",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:1"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:1:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 2733449746,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 2733450001,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 1875034,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedPackets",
+      "metricValue": 1875037,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveErrors",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1861452864,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceivedBytes",
+      "metricValue": 1861453119,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:2"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2578629,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 2578632,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:3"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "CollisionCount",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedPackets",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:2",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:2"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:2:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2720019656,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 2720019911,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "ReceiveDrops",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:4",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:4"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:4:1"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:26:55 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    },
+    {
+      "metricName": "TransmittedBytes",
+      "metricValue": 0,
+      "timeStamp": "Thu May 04 03:27:10 UTC 2017",
+      "nodeID": "openflow:3",
+      "tsdrDataCategory": "PORTSTATS",
+      "recordKeys": [
+        {
+          "keyName": "Node",
+          "keyValue": "openflow:3"
+        },
+        {
+          "keyName": "NodeConnector",
+          "keyValue": "openflow:3:LOCAL"
+        }
+      ]
+    }
+  ],
+  "recordCount": 288
+}

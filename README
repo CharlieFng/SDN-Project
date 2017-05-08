@@ -1,0 +1,27 @@
+#Overview#
+
+This project mainly includes two parts, one is opendaylight TSDR data service, the other is cutomized and parameterized mininet topology.
+
+
+#How to start up#
+First you need to set up two VMs to run miniet and opendaylight separately. 
+Basic installation procedures following offical documents.
+
+Then start opendaylight karaf console, run command:
+    feature:install odl-restconf odl-l2switch-switch odl-mdsal-apidocs odl-dlux-all odl-tsdr-hsqldb-all
+
+Now you use http://'opendaylight-controller-ip':8181/index.html to visulize network emulated from mininet
+
+
+To use TSDR data service, you can replace the 'getIntervalURL', 'setIntervalURL', 'TSDRDataURL' with your opendaylight-controller ip address. 
+
+Then run the python script Integration.py in your local computer, like 'python Integration.py' which uses Restful api to talk with TSDR data store, providing the service of changing the data polling interval, collect origin data, format the origin data, apply machine learning algorithm on formatted data. 
+
+Example data folder gives a few examples of different type of data been collected (files end with .txt), and the format after been processed (files end with .csv)
+
+
+
+To run customized topology, you need to copy these files under 'Custom Topology' folder to your mininet VM, then run with command like 'sudo python hypercube.py'
+
+
+
